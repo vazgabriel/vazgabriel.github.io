@@ -22,8 +22,8 @@ export default function Hero() {
       <div className='flex flex-col gap-3 bg-gray-900 rounded-md shadow-lg p-6 md:px-8'>
         <h1 className='text-4xl'>Gabriel Vaz</h1>
         <p className='text-lg'>
-          Hi there, I am a full stack engineer with more than 5 years of
-          experience. I am currently working as a Frontend Engineer at{' '}
+          Hi there, I have been working as a software engineer since 2017. I am
+          currently working as a Frontend Engineer at{' '}
           <Link
             href='https://aws.amazon.com/'
             target='_blank'
