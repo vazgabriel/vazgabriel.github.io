@@ -23,14 +23,14 @@ export default function Hero() {
         <h1 className='text-4xl'>Gabriel Vaz</h1>
         <p className='text-lg'>
           Hi there, I have been working as a software engineer since 2017. I am
-          currently working as a Frontend Engineer at{' '}
+          currently working as a Senior Software Engineer at{' '}
           <Link
-            href='https://aws.amazon.com/'
+            href='https://wandb.ai/'
             target='_blank'
             rel='noopener noreferrer'
             className='hover:underline'
           >
-            AWS
+            Weights & Biases
           </Link>
           .
         </p>
